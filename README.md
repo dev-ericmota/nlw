@@ -2,7 +2,7 @@
 
 >Trilha Explorer
 
-![preview](./.github/preview.png)
+![preview](https://dev-ericmota.github.io/nlw/)
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
