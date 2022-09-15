@@ -1,7 +1,10 @@
-# NLW eSports - Trilha Explorer
+# NLW eSports
+
+>Trilha Explorer
+
 Projeto construído no evento Next Level Week da Rocketseat.
 
-# Tecnologias
+# 💻 Tecnologias
 - HTML
 - CSS
 - Git e Github
