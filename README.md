@@ -2,9 +2,8 @@
 
 >Trilha Explorer
 
-![preview](https://dev-ericmota.github.io/nlw/)
-
 Projeto construído no evento Next Level Week da Rocketseat.
+[Clique aqui para acessar!](https://dev-ericmota.github.io/nlw/))
 
 # 💻 Tecnologias
 - HTML
